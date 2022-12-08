@@ -2,7 +2,7 @@
 <img src="https://guidocutipa.blog.bo/wp-content/uploads/2021/08/oracle-cloud.jpg" height="300" width="500">
 </center>
 
-# PortasOracle
+# PORTAS ORACLE
 Comandos para liberar portas
 
 # COMADO PARA ATUALIZAR
