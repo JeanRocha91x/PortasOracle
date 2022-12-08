@@ -36,3 +36,13 @@ sudo firewall-cmd --zone=public --permanent --add-port=7299/udp; &&
 sudo firewall-cmd --zone=public --permanent --add-port=5454/tcp; && 
 sudo firewall-cmd --zone=public --permanent --add-port=5000/tcp;
 ```
+
+# RECARREGAR
+```
+sudo firewall-cmd --reload
+```
+
+# LISTA DAS PORTAS
+```
+sudo firewall-cmd --zone=public --list-ports
+```
