@@ -1,4 +1,6 @@
-<center><img src="https://guidocutipa.blog.bo/wp-content/uploads/2021/08/oracle-cloud.jpg" height="300" width="500"></center>
+<center>
+<img src="https://guidocutipa.blog.bo/wp-content/uploads/2021/08/oracle-cloud.jpg" height="300" width="500">
+</center>
 
 # PortasOracle
 Comandos para liberar portas
